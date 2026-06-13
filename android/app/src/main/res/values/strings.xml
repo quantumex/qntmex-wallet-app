@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">QNTMEX Wallet</string>
+    <string name="title_activity_main">QNTMEX Wallet</string>
+    <string name="package_name">com.qntmex.wallet</string>
+    <string name="custom_url_scheme">com.qntmex.wallet</string>
+</resources>

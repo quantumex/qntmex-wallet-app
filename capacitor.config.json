@@ -1,0 +1,18 @@
+{
+  "appId": "com.qntmex.wallet",
+  "appName": "QNTMEX Wallet",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "backgroundColor": "#040302",
+  "android": {
+    "allowMixedContent": false
+  },
+  "ios": {
+    "contentInset": "always",
+    "backgroundColor": "#040302"
+  },
+  "server": {
+    "androidScheme": "https",
+    "iosScheme": "capacitor"
+  }
+}
